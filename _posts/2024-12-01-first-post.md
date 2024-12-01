@@ -9,8 +9,13 @@ This post is a test for the various features
 
 An equation
 
-$$x^2$$
+$$
+x^2
+$$
 
 Inline math: $a^2 + b^2 = c^2$
 
-Display math: $$E = mc^2$$
+Display math:
+$$
+E = mc^2
+$$
