@@ -31,6 +31,8 @@ github:
 # Setup Kramdown
 kramdown:
   math_engine: katex
+  math_engine_opts:
+    delimiters: "dollars"
   syntax_highlighter_opts:
     katex:
       macros: {}
