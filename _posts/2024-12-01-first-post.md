@@ -7,7 +7,7 @@ This post is a test for the various features
 
 -----
 
-An equation
+# An equation
 
 $$
 x^2
