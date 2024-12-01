@@ -28,11 +28,8 @@ version:             2.0.0
 github:
   repo:              https://github.com/ecrirai/ecrirai.github.io
 
-# Setup Kramdown
+# Setup MathJAX
 kramdown:
-  math_engine: katex
-  math_engine_opts:
-    delimiters: "dollars"
+  math_engine: mathjax
   syntax_highlighter_opts:
-    katex:
-      macros: {}
+    disable: true
