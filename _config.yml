@@ -4,8 +4,8 @@
 permalink:           pretty
 
 # Setup
-title:               MaT
-tagline:             Math and Tech
+title:               MnT
+tagline:             A Blog on Math and Tech
 url:                 http://ecrirai.github.io
 paginate:            1
 baseurl:             ""
@@ -27,3 +27,10 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/ecrirai/ecrirai.github.io
+
+# Setup Kramdown
+kramdown:
+  math_engine: katex
+  syntax_highlighter_opts:
+    katex:
+      macros: {}
